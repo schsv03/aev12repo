@@ -21,6 +21,11 @@
          <versioning_id>1707164615</versioning_id>
       </row>
    </general_attributes>
+   <scripts>
+      <row>
+         <process>asdasdsadsa</process>
+      </row>
+   </scripts>
    <job_attributes>
       <row>
          <platform>UNIX</platform>
@@ -33,4 +38,8 @@
          <unix_cmd></unix_cmd>
       </row>
    </job_attributes>
+   <rollback_definitions>
+      <row>
+      </row>
+   </rollback_definitions>
 </jobs>
