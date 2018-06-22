@@ -10,9 +10,9 @@
          <minimum_ae_version>11.2</minimum_ae_version>
          <auto_deactivation>A</auto_deactivation>
          <child_flags>00000000000000000000000000000000</child_flags>
-         <ert>1</ert>
+         <ert>27</ert>
          <platform>UNIX</platform>
-         <last_runtimes>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</last_runtimes>
+         <last_runtimes>HgAAAB4AAAAeAAAAHgAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</last_runtimes>
          <max_parallel_action>1</max_parallel_action>
          <mrt_time>000000</mrt_time>
          <name>JOBS.UNIX.NEW.1</name>
@@ -24,7 +24,7 @@
    </general_attributes>
    <scripts>
       <row>
-         <process>ls /aev12</process>
+         <process>sleep 30</process>
       </row>
    </scripts>
    <job_attributes>
