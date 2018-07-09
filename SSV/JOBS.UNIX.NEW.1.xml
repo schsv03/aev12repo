@@ -24,7 +24,7 @@
    </general_attributes>
    <scripts>
       <row>
-         <process>sleep 30</process>
+         <process>sleep 60</process>
       </row>
    </scripts>
    <job_attributes>
